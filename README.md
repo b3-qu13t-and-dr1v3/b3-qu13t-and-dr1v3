@@ -1,4 +1,4 @@
-<b>Hello! I'm Izzy, and before you look at your screen confused, my profile is based around a fictional character named Grayson Hawthorne from a fantasy book named The Inheritance Games by Jennifer Lynne Barnes. My Octocat ius based around him, and my display name is his. None of my account detals, aside from my pronouns, are based off of me as a person.</b>
+<b>Hello! I'm Izzy, and before you look at your screen confused, my profile is based around a fictional character named Grayson Hawthorne from a fantasy book named The Inheritance Games by Jennifer Lynne Barnes. My Octocat is based around him, and my display name is his. None of my account detals, aside from my pronouns, are based off of me as a person.</b>
 
 ### 🎮 Let's play Pokémon together
 <img src="https://toy.aoaoao.me/image" width="300"/> 
